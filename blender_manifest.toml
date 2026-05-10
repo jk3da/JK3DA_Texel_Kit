@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "jk3da_texel_kit"
+version = "1.0.0"
+name = "JK3DA Texel Kit"
+tagline = "Texel density scanner, setter and checker preview"
+maintainer = "Jonas Kircher <kontakt@jk3da.com>"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+tags = ["UV"]
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+website = "https://jk3da.com"
